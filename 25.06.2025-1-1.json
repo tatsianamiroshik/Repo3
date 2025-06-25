@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Tate",
+    "age": 9,
+    "address": {
+        "street": "Anthony Creek",
+        "city": "Rossmouth",
+        "state": "Colorado",
+        "zip": "77671"
+    },
+    "contact": {
+        "phone": "001-488-439-4987",
+        "servicePhone": "800061187"
+    },
+    "birthday": "2016-09-04",
+    "ip": "78.149.245.246",
+    "foo": "bar",
+    "profile": {
+        "about": "Nice care serve benefit operation. White chair state their provide. Summer reality ever open own.\nSystem trouble property. Star west out spend fire painting turn.",
+        "bio": "Teacher adult ground soon face Mr thing. Officer approach consider.\nWall accept part skill. News blood lead with such what reality. Guess another treatment."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
