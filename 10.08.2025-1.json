@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Parsons",
+    "age": 77,
+    "address": {
+        "street": "Buchanan Village",
+        "city": "South Sharonborough",
+        "state": "Illinois",
+        "zip": "84492"
+    },
+    "contact": {
+        "phone": "(723)342-3442x38410",
+        "servicePhone": "800496267"
+    },
+    "birthday": "1948-10-08",
+    "ip": "117.116.164.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Him deep of rule without. Recent specific necessary but. Left after near city apply since computer first. Tonight apply environment prepare bank civil.",
+        "bio": "American be run fire production cut build. Place hair long but.\nAffect pass once medical. Data design my."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
